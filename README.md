@@ -68,4 +68,4 @@ Screenshots added below.
 ![Parent Meeting](parentmeeting.png)
 
 ### Screen 15 – Student Profile Screen
-![Student Profile](studentsprofile.png)
+![Student Profile](studentsprofie.png)
